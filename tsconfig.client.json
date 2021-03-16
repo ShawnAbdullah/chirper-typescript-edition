@@ -1,9 +1,9 @@
+  
 {
     "compilerOptions": {
       "outDir": "./public/js/",
       "noImplicitAny": true,
       "module": "es6",
-      "moduleResolution": "node",
       "target": "es5",
       "jsx": "react",
       "allowSyntheticDefaultImports": true,
