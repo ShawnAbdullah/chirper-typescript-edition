@@ -2,8 +2,7 @@
   
 import * as React from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-
-// import Navbar from './components/Navbar';
+import Navbar from './components/Navbar';
 import AllChirps from './components/AllChirps';
 import AddChirp from './components/AddChirp';
 import Admin from './components/Admin';
